@@ -199,4 +199,4 @@
 	
 
 ## ERD
-<img width="788" alt="erd 최종" src="">
+<img width="788" alt="https://user-images.githubusercontent.com/113486287/ERD.jpg" src="">
