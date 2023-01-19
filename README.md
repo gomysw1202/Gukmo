@@ -133,6 +133,15 @@
 ![국모마이페이지](https://user-images.githubusercontent.com/112748454/210745489-8f3e6209-15d3-4508-93f9-fba1d82c3366.gif)
 
 	
+<br><br>	
+## 커뮤니티 리스트	
+- 카테고리 별 리스트 출력, 필터/검색어/페이징 처리 가능
+![커뮤니티](https://user-images.githubusercontent.com/83945491/213387783-9ee20510-a7bf-4b17-a8b5-5d60c526a59c.gif)
+
+	
+	
+	
+	
 	
 <br><br>	
 ## 글 상세페이지
